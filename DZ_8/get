@@ -1,0 +1,37 @@
+Connection closed by foreign host.
+spawn@len520:~$ telnet 192.168.1.6 8888
+Trying 192.168.1.6...
+Connected to 192.168.1.6.
+Escape character is '^]'.
+get http://lib.ru HTTP/1.1
+
+HTTP/1.1 200 OK
+Date: Wed, 03 Jun 2020 12:30:15 GMT
+Server: Apache/1.3.37
+Last-Modified: Sun, 03 May 2020 18:35:35 GMT
+...
+Connection: keep-alive
+
+FF2
+<html><head><title>Lib.Ru: ���������� ������� �������</title></head><body><pre>
+<center><h1><small><a href=http://lib.ru/>Lib.Ru</a>:</small> ���������� ������� �������<br><font size=-2>��� ��������� ������������ ��������� �� ������ � �������� �����������.</font></h1><font size=-1><form action=GrepSearch method=GET><b>�����</b>:<INPUT TYPE=text NAME=Search size=9><input type=submit value=search></font> <b><a href=/PROZA/>�����</a> <a href=/INPROZ/>��������</a> <a href=/POEZIQ/>�����/a> <a href=/RUFANT/>����������</a> <a href=/RUSS_DETEKTIW/>���������</a> <a href=http://az.lib.ru/>��������</a> <a href=/HISTORY/>������/a> &nbsp;<a href=/.dir_StripDir.html>� ��.<small>>>></small></a></b></form></center><center>[<a href=What-s-new><b>�������</b></a>][<a href=/HITPARAD/><b>��������</b></a>][<a href=http://samlib.ru/>��������</a>][<a href=http://music.lib.ru/>������</a>][<a href=http://www.artlib.ru/>���������</a>][<a href=http://world.lib.ru>���������</a>][<a href=http://turizm.lib.ru>������</a>][<a href=http://artofwar.ru><b>ArtOfWar</b></a>][<a href=http://okopka.ru>������</a>][<a href=/Forum/>�����</a>]<br>��������� �������: <a href=http://lit.lib.ru>����������/a> <a href=http://fan.lib.ru>����������</a> <a href=http://det.lib.ru>������������/a> <a href=http://4put.ru><font color=brown><b>�����������</b></font></a></noindex> [<a href=Mirrors><b>�������</b></a>]<small> [<b><a 
+ href=/koi/>koi</a></b>-<b><a 
+ href=/win/>win</a></b>-<b><a 
+ href=/lat/>lat</a></b>] </small> <img src=http://counter.rambler.ru/top100.cnt?59291 width=1 height=1 border=0><!--hr noshade size=1--></center></pre><font size=-1><b>23 aug 06. 5.5Gb</b><META NAME="keywords" CONTENT="CompuLib,LibMain,LibMoshkow,LibAuthor">. ������������� ������ www-����������, ������� � 1994. ������ � ��������
+��������� ������ ��. �����������������������, ���������� � ��������, ��������������� ����,
+������� ����� ��� � ������� ���, ������ � ����������, ��������� ���������, � �.�. � �.�.<br></font>
+<font size=-1><a
+href=AWARDS/>�������</a>:<b>���-2003,POTOP, IT-100,���-2001</b>.</font>
+&nbsp;&nbsp;<font size=-2><b>�������:</b> <noindex><a
+href=http://lib.ru/>lib.ru</a>, <a
+href=http://www.kulichki.com/moshkow/>�������</a> �� <a href=http://www.kulichki.com/>kulichki.com</a>,
+<a
+href=http://moshkow.tomsk.ru/koi/>tomsk.ru</a> <a
+href=http://lib.misto.kiev.ua/>������� (UA-IX)</a>
+</noindex>
+</font>
+<table align=right><tr><td>
+<table border=1 cellspacing=0 width=260><tr>
+<td bgcolor=blue>
+<a href=What-s-new><b><font color=white>������� Lib.ru</font></b></a>
+
